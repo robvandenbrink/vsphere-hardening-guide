@@ -22,5 +22,5 @@ Requirements:
 
 The vCenter audit script is optimized for Windows installs, but will still run fine against the Appliance version of VC
 
-Check back often for updates - there's lots coming!
+Check back often for updates - there's lots coming!</p>
 Enjoy!
