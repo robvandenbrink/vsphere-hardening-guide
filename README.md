@@ -5,7 +5,7 @@ Based on VMware's Hardening Guide, version 5.5</p>
 All VMware Hardening Guides are homed at http://www.vmware.com/security/hardening-guides.html</br>
 These scripts are used in <b>SANS SEC579</b>: https://www.sans.org/course/virtualization-private-cloud-security</p>
 Scripts:</br>
-<b>audit-esxi.ps1<b>      Audit ESXi specific checks</br>
+<b>audit-esxi.ps1</b>      Audit ESXi specific checks</br>
 <b>audit-vnetwork-ps1</b>  Audit network specific checks</br>
 <b>audit-vms.ps1</b>       Audit all VMs</br>
 <b>audit-vc.ps1</b>        Audit vCenter</p>
