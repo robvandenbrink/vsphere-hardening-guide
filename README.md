@@ -12,7 +12,7 @@ Scripts:</br>
 
 For usage:
 - Open VMware PowerCLI
-- Run the script with the target ESXi or vCenter host as the single argument
+- Run the desired script with the target ESXi or vCenter host as the single argument
 - Targeting a vCenter host will cover all attached ESXi hosts and VMs
 
 Requirements:
@@ -22,4 +22,5 @@ Requirements:
 
 The vCenter audit script is optimized for Windows installs, but will still run fine against the Appliance version of VC
 
+Check back often for updates - there's lots coming!
 Enjoy!
