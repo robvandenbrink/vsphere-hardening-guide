@@ -1,8 +1,10 @@
 # vsphere-hardening-guide
 vSphere Hardening Guide Compliance Scripts</br>
-Based on VMware's Hardening Guide, version 5.5</p>
+Based on VMware's Hardening Guide and CIS Benchmarks</p>
 
 All VMware Hardening Guides are homed at http://www.vmware.com/security/hardening-guides.html</br>
+CIS Benchmarks are homed here: https://www.cisecurity.org/cis-benchmarks/</br>
+
 These scripts were used in <b>SANS SEC579</b> (now retired): https://www.sans.org/course/virtualization-private-cloud-security</p>
 Scripts:</br>
 <b>audit-esxi.ps1</b>      Audit ESXi specific checks</br>
